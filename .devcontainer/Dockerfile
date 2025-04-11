@@ -1,4 +1,4 @@
-FROM docker pull codercom/enterprise-node:ubuntu
+FROM codercom/enterprise-node:ubuntu
 
 # FROM codercom/oss-dogfood:latest
 
