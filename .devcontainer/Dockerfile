@@ -1,6 +1,4 @@
-FROM codercom/enterprise-node:ubuntu AS base
+FROM codercom/oss-dogfood:latest
+
 # FROM codercom/enterprise-node:ubuntu
-
-# FROM codercom/oss-dogfood:latest
-
-RUN apt-get update && apt-get install -y npm screen
+# RUN apt-get update && apt-get install -y npm screen
