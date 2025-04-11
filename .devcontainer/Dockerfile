@@ -1,4 +1,5 @@
-FROM codercom/enterprise-node:ubuntu
+FROM codercom/enterprise-node:ubuntu AS base
+# FROM codercom/enterprise-node:ubuntu
 
 # FROM codercom/oss-dogfood:latest
 
